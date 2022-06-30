@@ -1,0 +1,38 @@
+hr{background-color: rgba(18, 16, 43, 0.719);}
+hr {
+	box-sizing: content-box;
+	height: 3px;
+	
+}
+h1#intro{background-color: chartreuse; color: rgb(60, 6, 65);border: darkgreen solid 10px;}
+ .img-thumbnail {
+	
+	padding: .15rem;
+	background-color: rgb(33, 73, 7);
+	border: 1px solid #dee2e6;
+	border-radius: .25rem;
+	max-width: 100%;
+	height: 220px;
+}
+.container#abc{
+	border: 5px solid darkgreen;
+	
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color:rgb(7, 136, 168);
+	
+}
+body{background-color: rgb(163, 202, 248);}
+
+.jumbotron{
+	
+	background-color: rgb(114, 166, 219);
+	color:whitesmoke;
+	
+}
+.nav{
+	position: fixed;
+}
